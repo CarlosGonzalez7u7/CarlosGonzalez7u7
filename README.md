@@ -1,15 +1,20 @@
 ## Hello Word!!!! 👋
-<div id="header" align="center">
- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Carlos%20Gonzalez%20(Juancho)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
 
 <br>
 
   <h4 align="center">Mexican Student 🎓, in Computer Systems Engineering 💻, I am currently in the 8th semester, with solid knowledge in software development, Web and passion for learning👨‍💻.
 I am looking for opportunities to apply and expand my skills in programming, robotics 🤖 , 3D design 🏆, analysis 📈 and systems design 📗, contributing to the success of your company🥇.🙏​</h4>
 </div>
+
+<div id="header" align="center">
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programador+y+Diseñador+WEB..&hearts;++;Me+Gusta+la+Robotica+con+Microcontroladores;+++++++Estudiante+de+Ing.+en+Sistemas..&hearts;++;Welcome😁+to+my+Profile👌;++Puedes+Contactarme+aqui+👇;Carlos+Gonzalez..<3"></a>
+</p>
 
 <div id="header" align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -46,7 +51,7 @@ I am looking for opportunities to apply and expand my skills in programming, rob
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <a href="https://github.com/CarlosGonzalez7u7" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
