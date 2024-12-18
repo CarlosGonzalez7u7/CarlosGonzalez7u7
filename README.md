@@ -19,11 +19,24 @@ I am looking for opportunities to apply and expand my skills in programming, rob
 <div id="header" align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <br>
- 
+  <a href="https://www.facebook.com/juanchito.gzalez?locale=es_LA" title="Go to Source">
  <img src=
    "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
    width="200" />
-  
+  </a>
+<!--- Para el solo learns-->
+   <a href="https://www.sololearn.com/es/profile/33182347" title="Go to Source">
+ <img src=
+   "https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" 
+   width="210" />
+  </a>
+
+  <!--- Para el Tik Tok -->
+   <a href="https://www.tiktok.com/@carlos_gonzalez_2003?_t=8sJ2yVzuNUs&_r=1" title="Go to Source">
+ <img src=
+   "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" 
+   width="160" />
+  </a>
 </div>
 
 <div>
